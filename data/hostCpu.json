@@ -1,0 +1,8 @@
+[
+    {"MetricName":"ppsysmon.cpu.system.AVG.600s",
+        "Tags":{"colo":"ccg23","environment":"P","servergroup":"c3","pool":"network","host":"agent1","type":"hv"},
+        "DataPoints":[[1561736400,0]]},
+    {"MetricName":"ppsysmon.cpu.system.AVG.600s",
+        "Tags":{"colo":"ccg23","environment":"P","servergroup":"c3","pool":"network","host":"agent2","type":"hv"},
+        "DataPoints":[[1561736400,0]]}
+]
